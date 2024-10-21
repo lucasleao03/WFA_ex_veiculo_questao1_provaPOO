@@ -1,0 +1,10 @@
+C:\POO\WFA_ex_veiculo\WFA_ex_veiculo\bin\Debug\WFA_ex_veiculo.exe.config
+C:\POO\WFA_ex_veiculo\WFA_ex_veiculo\bin\Debug\WFA_ex_veiculo.exe
+C:\POO\WFA_ex_veiculo\WFA_ex_veiculo\bin\Debug\WFA_ex_veiculo.pdb
+C:\POO\WFA_ex_veiculo\WFA_ex_veiculo\obj\Debug\WFA_ex_veiculo.csproj.AssemblyReference.cache
+C:\POO\WFA_ex_veiculo\WFA_ex_veiculo\obj\Debug\WFA_ex_veiculo.Form1.resources
+C:\POO\WFA_ex_veiculo\WFA_ex_veiculo\obj\Debug\WFA_ex_veiculo.Properties.Resources.resources
+C:\POO\WFA_ex_veiculo\WFA_ex_veiculo\obj\Debug\WFA_ex_veiculo.csproj.GenerateResource.cache
+C:\POO\WFA_ex_veiculo\WFA_ex_veiculo\obj\Debug\WFA_ex_veiculo.csproj.CoreCompileInputs.cache
+C:\POO\WFA_ex_veiculo\WFA_ex_veiculo\obj\Debug\WFA_ex_veiculo.exe
+C:\POO\WFA_ex_veiculo\WFA_ex_veiculo\obj\Debug\WFA_ex_veiculo.pdb
